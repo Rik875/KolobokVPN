@@ -1,0 +1,12 @@
+# Ignore local release binaries (APKs are uploaded to GitHub Releases)
+releases/*.apk
+*.apk
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
