@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rik875/kolobok-vpn/releases/latest">
+  <a href="https://github.com/Rik875/KolobokVPN/releases/latest">
     <img src="https://img.shields.io/badge/Версия-v1.1.0-blue?style=for-the-badge&logo=android" alt="Latest Version">
   </a>
   <a href="https://t.me/VpnKolobokBot">
@@ -29,10 +29,10 @@
 
 | Платформа | Версия | Файл | Размер | Ссылка на загрузку |
 | :--- | :---: | :--- | :---: | :--- |
-| 📱 **Android Mobile**<br>*(Смартфоны и планшеты)* | `v1.1` | `KolobokVPN_android_universal.apk` | ~64 МБ | [👉 **Скачать для Android**](https://github.com/Rik875/kolobok-vpn/releases/latest/download/KolobokVPN_android_universal.apk) |
-| 📺 **Android TV**<br>*(Телевизоры и ТВ-приставки)* | `v1.0` | `Kolobok_TV_release.apk` | ~64 МБ | [👉 **Скачать для Android TV**](https://github.com/Rik875/kolobok-vpn/releases/latest/download/Kolobok_TV_release.apk) |
+| 📱 **Android Mobile**<br>*(Смартфоны и планшеты)* | `v1.1` | `KolobokVPN_android_universal.apk` | ~64 МБ | [👉 **Скачать для Android**](https://github.com/Rik875/KolobokVPN/releases/latest/download/KolobokVPN_android_universal.apk) |
+| 📺 **Android TV**<br>*(Телевизоры и ТВ-приставки)* | `v1.0` | `Kolobok_TV_release.apk` | ~64 МБ | [👉 **Скачать для Android TV**](https://github.com/Rik875/KolobokVPN/releases/latest/download/Kolobok_TV_release.apk) |
 
-> 💡 *Все релизные файлы также доступны на странице [**GitHub Releases**](https://github.com/Rik875/kolobok-vpn/releases).*
+> 💡 *Все релизные файлы также доступны на странице [**GitHub Releases**](https://github.com/Rik875/KolobokVPN/releases).*
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## 📲 Инструкция по установке на Android (Смартфон / Планшет)
 
-1. **Скачайте APK**: нажмите на [KolobokVPN_android_universal.apk](https://github.com/Rik875/kolobok-vpn/releases/latest/download/KolobokVPN_android_universal.apk).
+1. **Скачайте APK**: нажмите на [KolobokVPN_android_universal.apk](https://github.com/Rik875/KolobokVPN/releases/latest/download/KolobokVPN_android_universal.apk).
 2. **Разрешите установку**: если Android покажет уведомление о загрузке из браузера, нажмите *«Все равно скачать»* и разрешите установку из этого источника.
 3. **Установите и откройте** приложение **Kolobok VPN**.
 4. **Получите ключ**:
@@ -84,7 +84,7 @@
 2. Найдите и установите бесплатное приложение **Downloader by AFTVnews**.
 3. Запустите Downloader, в строке ввода URL укажите прямую ссылку на APK:
    ```text
-   https://github.com/Rik875/kolobok-vpn/releases/latest/download/Kolobok_TV_release.apk
+   https://github.com/Rik875/KolobokVPN/releases/latest/download/Kolobok_TV_release.apk
    ```
 4. Нажмите кнопку **Go** — файл скачается и телевизор предложит установить его.
 5. При первом запуске разрешите Downloader установку неизвестных приложений в системных настройках ТВ.
@@ -92,7 +92,7 @@
 ---
 
 ### Способ 2: Через USB-флешку
-1. Скачайте файл [Kolobok_TV_release.apk](https://github.com/Rik875/kolobok-vpn/releases/latest/download/Kolobok_TV_release.apk) на компьютер и скопируйте его на обычную USB-флешку.
+1. Скачайте файл [Kolobok_TV_release.apk](https://github.com/Rik875/KolobokVPN/releases/latest/download/Kolobok_TV_release.apk) на компьютер и скопируйте его на обычную USB-флешку.
 2. Вставьте флешку в USB-разъем телевизора или ТВ-приставки.
 3. На телевизоре откройте любой файловый менеджер (например, встроенный проводник или бесплатный **X-plore File Manager** из магазина ТВ).
 4. Найдите файл `Kolobok_TV_release.apk` на флешке, нажмите на него и подтвердите установку.
