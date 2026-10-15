@@ -44,8 +44,13 @@
 - **Android TV Remote Sync (No Typing Required)**: Pair your Smart TV with a quick scan of a QR code via phone or Telegram command `/tv <code>`.
 - **Telegram Bot Integration**: Fast key issuance and traffic monitoring via [@VpnKolobokBot](https://t.me/VpnKolobokBot).
 - **1-Click Clipboard Import**: Auto-detects `vless://` and subscription links from clipboard upon app opening.
-- **Leak-Proof TUN & DNS**: Custom DNS resolvers (Cloudflare `1.1.1.1` & Google `8.8.8.8`) and no-log routing.
-- **Built-in Ping Latency Test**: Monitor server response time in real time.
+- **Leak-Proof TUN & Kill Switch**: Integrated `setBlocking` kill switch protects your identity if connection drops.
+- **Split Tunneling**: Bypass local services/banking apps or whitelist only specific apps.
+- **Home Screen Widget & Quick Tile**: Toggle VPN in 1 tap from desktop widget or Android Quick Settings.
+- **Real-time Traffic & Speed Stats**: Live upload/download gauges and per-session bandwidth counters.
+- **Smart Auto-Select**: Automatically find and connect to the lowest latency node.
+- **Material You Dynamic Theming**: Adaptive color palette matching your wallpaper (Android 12+) with Dark/Light modes.
+- **In-App Updater**: One-click update checking and self-installing mechanism.
 
 ---
 

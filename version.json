@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "downloadUrl": "https://github.com/Rik875/KolobokVPN/releases/latest/download/KolobokVPN_android_universal.apk",
+  "changelog": "• Раздельное туннелирование (Split Tunneling)\n• Виджет рабочего стола Android\n• Плитка быстрых настроек в шторке (Quick Tile)\n• Мониторинг скорости и трафика в реальном времени\n• Авто-выбор быстрейшего сервера\n• Режим защиты от утечек Kill Switch\n• Темы оформления и Dynamic Colors (Material You)"
+}
